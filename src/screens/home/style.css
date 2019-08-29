@@ -17,3 +17,18 @@
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+
+@media only screen and (max-width: 760px) {
+  .home {
+    display: block;
+  }
+  .kpi-graph {
+    margin: auto;
+    width: 90%;
+    height: 50vw;
+  }
+  .add-mentor {
+    margin: auto;
+    width: 90%;
+  }
+}
