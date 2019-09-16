@@ -18,6 +18,7 @@ const Login = () => {
         'Content-Type': 'application/json'
       }
     }
+
     fetch('https://api.upframe.io/auth/login', fetchData)
       .then((res) => res.json())
       .then((res) => {
