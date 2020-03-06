@@ -1,6 +1,6 @@
 # 📈 Dashboard
 
-Our command and control page for Connect. This allows us to add new mentors and check some statistics.
+Our command and control page for Upframe. This allows us to add new mentors and check some statistics.
 
 # Installation
 
